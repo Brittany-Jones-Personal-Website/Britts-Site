@@ -41,3 +41,9 @@ h1{
     font-family: cambria;
     color: rgb(0, 0, 0);
 }
+
+p{
+    background-color: rgb(255, 251, 246);
+    opacity: 80%;
+    font-size: large;
+}
