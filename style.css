@@ -47,3 +47,10 @@ p{
     opacity: 80%;
     font-size: large;
 }
+
+footer {
+    border-style: dashed;
+    border-color: black;
+    background-color: rgb(250, 250, 250);
+    text-align: center;
+}
